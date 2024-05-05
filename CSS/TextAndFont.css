@@ -1,0 +1,51 @@
+h1{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    /* text-align: right; */
+    /* text-align: left; */
+    letter-spacing: 25px;
+    text-decoration: dashed;
+    text-shadow: 5px 5px 5px black;
+}
+p{
+    /* text-align:justify; */
+    /* text-align-last: center; */
+    /* text-align-last: right; */
+    /* text-align-last: justify; */
+    word-spacing: 30px;
+    /* text-decoration-line: underline; */
+    /* text-decoration-line: line-through; */
+    /* text-decoration-line: overline; */
+    /* text-decoration-color:blue ; */
+    /* text-decoration-style: dashed; */
+    text-decoration: underline red wavy;
+    /* text-decoration-thickness: 2px; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+    text-indent: 150px;
+    line-height: 40px;
+}
+h2{
+    background-color: yellow;
+    text-align: center;
+    /* font-style: italic; */
+    font-style: oblique;
+    font-size: 70px;
+    /* font-weight: 500; */
+    /* font-family: 'Kalnia', serif; */
+    font-family: 'Kalnia', serif;
+font-family: 'Silkscreen', sans-serif;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
+button{
+    font-weight: 500;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    font-weight: 900;
+}

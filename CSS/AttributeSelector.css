@@ -1,0 +1,27 @@
+/* input[type]{
+    background-color:green;
+}
+
+input[type="password"]{
+    background-color:black;
+} */
+
+/* p[class~=hello]{
+    background-color: goldenrod;
+} */
+
+/* p[class|="hello"]{
+    background-color: brown;
+} */
+
+/* h1[class^="hello"]{
+    background-color: blue;
+} */
+
+/* h1[class$="hello"]{
+    background-color: blue;
+} */
+
+/* h1[class*="hello"]{
+    background-color: blue;
+} */

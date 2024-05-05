@@ -1,0 +1,56 @@
+/* a:link{
+    color: chocolate;
+    background-color: green;
+
+} */
+
+/* a:active{
+    color:chartreuse;
+    background-color: black;
+} */
+
+/* a:hover{
+    color:darkgoldenrod;
+    background-color:gray;
+}
+h1:hover{
+    color: red;
+    background-color: aqua;
+}`
+button:hover{
+    color: antiquewhite;
+    background-color: firebrick;
+} */
+
+/* a:visited{
+    color:red;
+} */
+
+/* input:focus{
+    color:chocolate;
+    background-color: chartreuse;
+} */
+
+/* div>p:first-child{
+    color: blue;
+}
+div>p:last-child{
+    color: red;
+} */
+
+/* div>p:nth-child(4){
+    /* div>p:nth-child(even) 
+   div>p:nth-child(odd)
+   div>p:nth-child(3n)
+   div>p:nth-child(4n)
+
+    color: darkorange;
+} */
+
+/* ul>li:not(.exclude){
+    color: blueviolet;
+} */
+
+input:checked+label{
+    color: blue;
+}

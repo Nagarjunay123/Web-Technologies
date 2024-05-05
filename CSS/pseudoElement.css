@@ -1,0 +1,32 @@
+p::first-letter{
+    color: goldenrod;
+    font-size: 42px;
+}
+p::first-line{
+    color: aqua;
+    background-color: black;
+}
+p::before{
+    content:"👌😴 Hello ";
+}
+p::after{
+    content:"😍😍";
+}
+
+ul>li::marker{
+    content: "🎶";
+}
+
+p::selection{
+    color: crimson;
+    background-color: black;
+}
+ul>li::selection{
+    color: yellow;
+    background-color: blueviolet;
+}
+
+input::placeholder{
+    color: blue;
+    background-color: chartreuse;
+}

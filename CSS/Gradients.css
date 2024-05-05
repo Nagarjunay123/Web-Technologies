@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: linear-gradient(hotpink,goldenrod); */
+    /* background: linear-gradient(to bottom,hotpink,goldenrod); */
+    /* background: linear-gradient(to right,hotpink,goldenrod); */
+    /* background: linear-gradient(to top,hotpink,goldenrod); */
+    /* background: linear-gradient(to left,hotpink,goldenrod); */
+    /* background: linear-gradient(to bottom right,hotpink,goldenrod); */
+    /* background: linear-gradient(to bottom left,hotpink,goldenrod); */
+    /* background: linear-gradient(to top left,hotpink,goldenrod); */
+    /* background: linear-gradient(to top right,white,red); */
+    /* background-image:repeating-linear-gradient(to top right,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to top left,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to bottom left,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to bottom right,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to bottom,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to top,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to left,white,red 10%); */
+    /* background-image:repeating-linear-gradient(to right,red ,white,green,yellow,blue,black,gold);  */
+    /* background:radial-gradient(yellow,black,blue,green,pink,goldenrod); */
+}
+div{
+    height: 500px;
+    width: 500px;
+    border: 2px solid;
+    border-radius: 50%;
+    /* background:repeating-radial-gradient(white,black,blue 10%); */
+    /* background: conic-gradient(rgb(193, 175, 175),black); */
+    /* background: conic-gradient(red 0% 25%,black 25% 50%,blue 50% 75%,yellow 75%); */
+    background: repeating-conic-gradient(red 0% 25%,black 25% 30%);
+
+}
+div:hover{
+    background: conic-gradient(orange 0% 25%,green 25% 50%,gray 50% 75%,pink 75%);
+}

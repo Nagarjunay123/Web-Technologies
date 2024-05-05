@@ -1,0 +1,30 @@
+h1{
+    border: 20px solid green;
+    width: 400px;
+    height: 400px;
+    /* padding: 40px 100px; */
+    /* margin: 50px 20px 70px 100px; */
+
+    /* padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 30px; */
+
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+
+    /* margin-top: -20px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    margin-left: -30px; */
+
+    /* box-shadow: 20px 20px 600px red inset; */
+    box-shadow: 20px 20px 6px red;
+}
+img{
+    height: 500px;
+    width: 250px;
+    filter: drop-shadow(20px 20px 100px gray);
+}

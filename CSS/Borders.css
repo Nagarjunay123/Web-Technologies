@@ -1,0 +1,46 @@
+h1{
+    /* border-width: 5px; */
+    /* border-style: solid; */
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    /* border-style: groove; */
+    /* border-style:ridge; */
+    /* border-color:darkgoldenrod; */
+    /* border: 4px dashed goldenrod; */
+
+    /* border-top-width: 2px;
+    border-right-width: 4px;
+    border-bottom-width: 6px;
+    border-left-width: 8px; */
+
+    /* border-top-style:solid ;
+    border-right-style:dotted ;
+    border-bottom-style:dashed ;
+    border-left-style:ridge ; */
+    
+
+    /* border-top-color: blue;
+    border-right-color:red ;
+    border-bottom-color:darkgreen ;
+    border-left-color: fuchsia; */
+
+    /* border-color: red blue green yellow; */
+    /* border-color: red blue green; */
+    /* border-color: red blue; */
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 25px;
+}
+div{
+    height: 400px;
+    width: 400px;
+    background-color: wheat;
+    border: 4px dashed red;
+    border-radius: 50%;
+}

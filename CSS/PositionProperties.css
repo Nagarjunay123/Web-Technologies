@@ -1,0 +1,145 @@
+/* Position Relative */
+div{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+/* #one{
+    background-color: red;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    
+}
+#two{
+    background-color: blue;
+    position: relative;
+    top: -20px;
+    left: 200px;
+} */
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+article{
+    height: 650px;
+    width: 600px;
+    border: 2px solid;
+    background-color: yellow;
+}
+
+/* Position Absolute */
+/* #one{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: red;
+    position: absolute;
+    top: 20px;
+}
+#two{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: blue;
+} */
+
+/* Fixed Position */
+/* #one{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: red;
+} #two{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: blue;
+    position: fixed;
+} 
+div{
+    height: 900px;
+    width: 200px;
+    border: 2px solid;
+    background-color: green;
+}  */
+
+/* Sticky Position */
+/* #one{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: red;
+} #two{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: blue;
+    position: sticky;
+    top: 10px;
+} 
+div{
+    height: 900px;
+    width: 200px;
+    border: 2px solid;
+    background-color: green;
+}  */
+
+/* Static Position */
+/* #one{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: red;
+} #two{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: blue;
+    position: static;
+    top: 10px;
+} 
+div{
+    height: 900px;
+    width: 200px;
+    border: 2px solid;
+    background-color: green;
+}  */
+
+/* Z-Index */
+/* #one{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: red;
+    position: absolute;
+    z-index: 40;
+} 
+#two{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: blue;
+    position: absolute;
+    z-index: 50;
+    top: 10px;
+} 
+#three{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    background-color: gray;
+    position: absolute;
+    top: 30px;
+    z-index: 60;
+}
+
+div{
+    height: 900px;
+    width: 200px;
+    border: 2px solid;
+    background-color: green;
+}  */
